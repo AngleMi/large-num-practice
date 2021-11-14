@@ -1,7 +1,7 @@
 {
   "name": "large-num-practice",
-  "version": "1.0.2",
-  "description": "大整数加法打包联系",
+  "version": "1.0.7",
+  "description": "大整数加法打包练习",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
